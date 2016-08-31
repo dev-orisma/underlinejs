@@ -14,7 +14,7 @@ jQuery must appear BEFORE Underlinejs in your HTML document.
 <script type="text/javascript"   src="underline-th.js"></script> 
 ```
 
-3.Call DDown on your .dropdown-list div, You can identify by id (#normal).
+3.Call Underlinejs on your .underline div.
 ```javascript
 $(".underline").underline();
 ```
